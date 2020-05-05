@@ -7,3 +7,5 @@
 - Train different models to predict the sentiment.
 
 Reference - https://www.kaggle.com/amar09/sentiment-analysis-on-scrapped-tweets#1.-Import-Libraries
+
+Note - This hobby project is still in progress, I will keep updating it as I learn more skills.
